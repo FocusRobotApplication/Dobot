@@ -14,7 +14,7 @@ VsCode
 目前进度：
 --
 已经基本熟悉控制Dobot机械臂的代码文件，可以利用ros控制Dobot机械臂的运动与吸盘电机的运动，已在ubuntu下配置好Vscode的opencv及ros的开发环境，目前正在进一步熟悉Dobot机械臂的API接口以及Opencv的学习。
-本周目标：-
+本周目标：
 --
 熟悉Dobot机械臂的API接口
 
